@@ -1,0 +1,25 @@
+
+Libretto Delle Istruzioni
+
+Le regole degli scacchi prevedono che ogni singolo pezzo si sposti sulla scacchiera in modo preciso. Il giocatore che muove per primo è colui che vede il proprio Re a destra della propria Regina e si chiama Bianco mentre l’avversario è il Nero. 
+Apertura, mediogioco e finale sono le tre fasi che compongono ogni partita.
+
+Nessun pezzo, secondo il regolamento, può occupare una casella in cui si trova un altro pezzo dello stesso schieramento. Al contrario un pezzo può spingersi verso una casa occupata da un pezzo avversario eliminandolo e prendendo il suo posto sulla scacchiera. In questo caso si parla di “cattura” e si annota con x, mentre quando un pezzo “attacca” o “minaccia” una casa significa che può muoversi su di essa.
+
+Nelle partite ufficiali non si puo' annullare la mossa fatta, pero' a fini didattici fi puo' utilizzare quasta funzione.
+
+COME SI MUOVONO I PEZZI
+
+♙  Pedone: la prima mossa gli consente di muoversi di una o due case in avanti a patto che la casella finale e la casa saltata siano libere. Se spostandosi il pedone finisce accanto al pedone avversario allora quest’ultimo può effettuare la presa en passant.  Nelle mosse successive il pedone può avanzare di una sola casella. A differenza degli altri pezzi non può mai muoversi all’indietro e cattura gli avversari spostandosi in senso diagonale e sempre in avanti. Un pedone viene promosso e sostituito con un pezzo dello stesso colore, scelto dal giocatore, quando raggiunge l’ottava traversa o riga (per la promozione di un pedone si può scegliere uno dei seguenti pezzi: il Cavallo o l'Alfiere o la Torre o ancora la Donna). 
+
+♘  Cavallo: può spostarsi e catturare sia su caselle nere che su caselle bianche e i suoi movimenti formano idealmente una “L”. È l’unico dei sedici pezzi a cui è permesso “saltare” sia gli alleati che gli avversari e pur trovandosi dietro i pedoni può essere mosso senza spostarli. 
+
+♗  Alfiere: può muoversi diagonalmente in base al numero delle caselle libere disponibili e la sua casa d’arrivo non può essere occupata da un pezzo amico. 
+
+♖  Torre: la torre può muoversi sia in senso verticale che orizzontale in base alle caselle libere disponibili davanti e di fianco. Se non ostacolata da uno qualunque dei pezzi, a prescindere dalla sua posizione, la torre controlla sempre 14 case. È protagonista, insieme al re, di una mossa particolare conosciuta con il nome di arrocco, l’unica che permette di spostare contemporaneamente due pezzi e che consente al Re di muoversi di due caselle, l'arrocco può essere corto O-O o lungo O-O-O, nel primo caso il re si muove alla destra del giocatore, nel secondo caso alla sinistra.. 
+
+♕  Regina: o donna (D), è il pezzo più forte e conosciuto in passato con il nome di “generale”, “stratega” o “visir”. Può spostarsi verticalmente, orizzontalmente o diagonalmente in base alle caselle libere disponibili e a ogni mossa può anche scegliere se muoversi come un alfiere o una torre. A differenza della torre non può effettuare la mossa dell’arrocco. 
+
+♔  Re: tra i sedici pezzi è il più importante e può muoversi in qualsiasi direzione ma una casa alla volta e a patto che la casella di destinazione non sia minacciata da un pezzo avversario. Al re è permesso catturare pezzi avversari muovendosi sulla casa occupata da questi ultimi e insieme alla torre può eseguire la mossa dell’arrocco. Quando il re è minacciato si trova sotto scacco. Lo scacco matto (o più semplicemente, matto) è invece una situazione che si verifica quando non più possibile per il giocatore difendere il re con altri pezzi o spostarlo in una casella libera che lo salverebbe dall’avversario. Lo scacco matto si annota con #.
+Il sistema di valutazione Elo è un metodo per calcolare i livelli di abilità relativi dei giocatori. Il punteggio Elo di un giocatore è rappresentato da un numero che può cambiare a seconda del risultato delle partite classificate giocate. La differenza nelle valutazioni tra i due avversari in una partita serve per prevedere il risultato della partita stessa.
+Chi non ha mai giocato a scacchi parte da un elo pari a 1440.

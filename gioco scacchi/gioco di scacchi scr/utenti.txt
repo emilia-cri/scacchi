@@ -1,0 +1,5 @@
+emily marvel 1475 1.5 3 
+emanuele blu 1460 1.0 2 
+sara dante 1435 0.5 1 
+franc space 1445 0.5 1 
+simone rino 1460 0.5 1
