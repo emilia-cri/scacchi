@@ -4,8 +4,8 @@
 
 # SCACCHI 2 players
 
-Comandi per compilare ed eseguire il gioco su terminale linux o wsl (su windows): 
-./make.sh
+Comandi per compilare ed eseguire il gioco su terminale linux o wsl (su windows):     
+./make.sh    
 ./scacchi
 
 DOCUMENTO DI PROGETTO
