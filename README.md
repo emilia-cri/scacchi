@@ -11,7 +11,7 @@ DOCUMENTO DI PROGETTO
 
 L’obiettivo di questo programma è di avvicinare chiunque al gioco degli scacchi; pertanto, si tratterà di un software didattico che permetterà a qualsiasi utente di imparare quali sono le mosse e le regole basilari, come per esempio quella di portare al termine la partita una volta iniziata, a meno che non si chieda: patta o abbandono. 
 
-Questo gioco permetterà all’utente di registrarsi e/o accedere con l’immissione di nickname e password, verrà chiesto ad uno dei due utenti con il quale vuole giocare, dopo sarà possibile scegliere un’operazione dal menu principale tra: 
+Questo gioco permetterà all’utente di registrarsi e/o accedere con l’immissione di nickname e password (che può essere mostrata o nascosta dagli *), verrà chiesto ad uno dei due utenti con il quale vuole giocare, dopo sarà possibile scegliere un’operazione dal menu principale tra: 
 -	New - per iniziare una nuova partita;
 -	Classifica - per stampare a schermo il punteggio dei giocatori registrati, le partite giocate e l’elo (punteggio che rappresenta l’abilita e il livello del giocatore);
 -	Help - per leggere le istruzioni del gioco;
@@ -50,3 +50,5 @@ Nello stampare la scacchiera si utilizzerà la codifica Unicode al fine di visua
 LA SCACCHIERA E' STATA COSTRUITA RISPETTANDO QUESTO SCHEMA
 
 ![rappresentazione_scacchiera](https://user-images.githubusercontent.com/83581773/189666734-a6d6eb95-f1be-4432-a0f2-775c073c5bfc.png)
+
+Per nascondere la password si utilizza la funzione getch scritta con la libreria standard presente anche su linux termios.h, a differenza della libreria conio.h che non c'è su linux. 
