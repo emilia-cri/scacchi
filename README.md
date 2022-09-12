@@ -2,6 +2,10 @@
 
 # PS. IL branch scacchi-2.0 contiene i codici aggiornati, così da decidere se mostrare o meno la password
 
+Comandi per compilare ed eseguire il gioco su terminale linux:
+./make.sh
+./scacchi
+
 DOCUMENTO DI PROGETTO
 
 L’obiettivo di questo programma è di avvicinare chiunque al gioco degli scacchi; pertanto, si tratterà di un software didattico che permetterà a qualsiasi utente di imparare quali sono le mosse e le regole basilari, come per esempio quella di portare al termine la partita una volta iniziata, a meno che non si chieda: patta o abbandono. 
