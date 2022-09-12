@@ -259,7 +259,7 @@ char* Registrazione(struct giocatore **head)
          while(user_usato==FALSE)
          {
              
-             printf("\n Inserisci username:  ");
+             printf("\n Inserisci username:\n");
              fflush(stdin);
              scanf("%s",nickname);
        
@@ -338,7 +338,7 @@ char si_no[5]="";
      //faccio un username finchè non trovo lo stesso username
      do
      {
-         printf("\n Inserisci username:");
+         printf("\n Inserisci username:\n");
          fflush(stdin);
          scanf("%s",nickname);
        
