@@ -1,6 +1,8 @@
-# SCACCHI 2 players
-
 # *PS. IL branch scacchi-2.0 contiene i codici aggiornati, così da decidere se mostrare o meno la password
+
+
+
+# SCACCHI 2 players
 
 Comandi per compilare ed eseguire il gioco su terminale linux:
 ./make.sh
