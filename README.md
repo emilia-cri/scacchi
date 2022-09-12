@@ -1,4 +1,4 @@
-# *PS. IL branch scacchi-2.0 contiene i codici aggiornati, così da decidere se mostrare o nascondere la password dietro degli *, sfruttando la funzione getch
+# *PS. Il branch scacchi-2.0 contiene i codici aggiornati, così da decidere se mostrare o nascondere la password dietro degli *, sfruttando la funzione getch
 
 
 
