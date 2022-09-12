@@ -376,10 +376,11 @@ char si_no[5]="";
          //Inserimento della password 
           puts ("\n ");
 ins_psw();
-printf("\n Mostrare password? (Digita 'si' o 'no') ");
+	     strcpy(password,pw);
+printf("\n Mostrare password? (Digita 'si' o 'no'): ");
 	scanf(" %s",si_no);
 if(strcmp(si_no,"si")==0){
-	strcpy(password,pw);
+	
 printf("\n Password %s \n",password);}
 
           //Se la password inserita e corretta trovato diventa true e si esce dal ciclo while
