@@ -1,6 +1,6 @@
 # SCACCHI 2 players
 
-#scacchi 2.0
+# scacchi 2.0
 
 Comandi per compilare ed eseguire il gioco su terminale linux:
 ./make.sh
