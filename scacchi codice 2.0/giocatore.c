@@ -303,10 +303,11 @@ char* Registrazione(struct giocatore **head)
      
      puts ("\n ");
 ins_psw();
+	strcpy(password,pw);
 printf("\n Mostrare password? (Digita 'si' o 'no') ");
 	scanf(" %s",si_no);
 if(strcmp(si_no,"si")==0){
-	strcpy(password,pw);
+	
 printf("\n Password %s \n",password);}
 
     
