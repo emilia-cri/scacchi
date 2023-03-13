@@ -1,0 +1,6 @@
+
+
+ CLASSIFICA 
+
+1 - emily pt=1.5 partite=3 elo=1475
+2 - emanuele pt=1.0 partite=2 elo=1460
